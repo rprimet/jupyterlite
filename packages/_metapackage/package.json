@@ -23,6 +23,7 @@
     "@jupyterlite/application-extension": "file:../application-extension",
     "@jupyterlite/retro-application-extension": "file:../retro-application-extension",
     "@jupyterlite/contents": "file:../contents",
+    "@jupyterlite/gitlab-oauth-extension": "file:../gitlab-oauth-extension",
     "@jupyterlite/iframe-extension": "file:../iframe-extension",
     "@jupyterlite/javascript-kernel": "file:../javascript-kernel",
     "@jupyterlite/javascript-kernel-extension": "file:../javascript-kernel-extension",

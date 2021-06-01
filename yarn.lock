@@ -3691,6 +3691,13 @@
     "@lumino/signaling" "^1.7.0"
     localforage "^1.9.0"
 
+"@jupyterlite/gitlab-oauth-extension@file:packages/gitlab-oauth-extension":
+  version "0.1.0"
+  dependencies:
+    "@jupyterlab/services" "^6.1.0-alpha.10"
+    "@lumino/coreutils" "^1.8.0"
+    "@lumino/signaling" "^1.7.0"
+
 "@jupyterlite/iframe-extension@file:packages/iframe-extension":
   version "0.1.0-alpha.0"
   dependencies:

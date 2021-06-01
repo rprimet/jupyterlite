@@ -8,6 +8,7 @@
   "references": [
     { "path": "../application-extension" },
     { "path": "../contents" },
+    { "path": "../gitlab-oauth-extension" },
     { "path": "../iframe-extension" },
     { "path": "../javascript-kernel" },
     { "path": "../javascript-kernel-extension" },
