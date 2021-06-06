@@ -1,0 +1,18 @@
+{
+  "title": "Gitlab-oauth settings",
+  "description": "Settings of the gitlab-oauth extension.",
+  "type": "object",
+  "properties": {
+    "base_url": {
+      "type": "string",
+      "title": "Base URL",
+      "description": "Base URL for the Gitlab instance e.g. https://gitlab.com",
+      "default": "https://gitlab.com"
+    },
+    "app_id": {
+      "type": "string",
+      "title": "Application ID",
+      "description": "Application ID (public token)"
+    }
+  }
+}
